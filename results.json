@@ -1,0 +1,86 @@
+      {
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.474, 
+               "transcript": "pensar sem velando retificado decisivos repasse "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.601, 
+               "transcript": "ele quer que os "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.35, 
+               "transcript": "o anúncio não olha perda em teotônio por "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.507, 
+               "transcript": "não me "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.429, 
+               "transcript": "não por "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.344, 
+               "transcript": "eles não dão "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.857, 
+               "transcript": "por ano "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.535, 
+               "transcript": "não se unir "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.213, 
+               "transcript": "por não agradando triplica "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0
+}
