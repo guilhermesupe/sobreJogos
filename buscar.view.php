@@ -18,7 +18,7 @@ $array = json_decode($rep,true);
 if(!empty($array["results"])){
 $retorno = $array["results"][0]["extracted_metadata"]["filename"];
 $id= explode('.', $retorno);
-$retorno = 'https://www.youtube.com/watch?v='. $id[0];
+$retorno = 'https://www.youtube.com/embed/'. $id[0].'?rel=0';
 }
 else{
 	$retorno = '';
